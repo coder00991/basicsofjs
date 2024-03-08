@@ -1,14 +1,14 @@
-var name1 = "name";//name1stores string
+var name1 = "maniswaroop";//name1stores string
 var age = 20;//stores the number
-var user = ["hello", "name", "thos","hchhc","maniya"];//array
+var user = ["hello", "mani", "thos","hchhc","maniya"];//array
 var users = {//objects
-  name: "yourname",
+  name: "maniswaroop",
   age: 20,
-  email: "22000030@kl.coxm",
+  email: "22000030449@kl.coxm",
   ph: 99999,
 };
 var users2=[
-  {name:"itsokay",age:33},
+  {name:"pinnaka",age:33},
   {name:"hello",age:55},
 ]
 console.log("hello"+" "+name1);//printing name
